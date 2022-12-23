@@ -1,0 +1,21 @@
+{
+  "type": "main",
+  "items": [
+    {
+      "title": "Поиск",
+      "icon": "search"
+    },
+    {
+      "title": "Интересное",
+      "icon": "interest"
+    },
+    {
+      "title": "Бронирования",
+      "icon": "basket"
+    },
+    {
+      "title": "Профиль",
+      "icon": "profile"
+    }
+  ]
+}

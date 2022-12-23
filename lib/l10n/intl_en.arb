@@ -1,0 +1,15 @@
+{
+  "appTitle":"Easy Booking",
+  "search":"Поиск",
+  "interest":"Интересное",
+  "booking":"Бронирования",
+  "profile": "Профиль",
+  "settings": "Settings",
+  "sum":"sum",
+  "cancel":"Cancel",
+  "language":"Language",
+  "theme":"Theme",
+  "system":"System",
+  "light":"Light",
+  "dark":"Dark"
+}
